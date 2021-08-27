@@ -38,3 +38,14 @@ c.Billing information
 
 * 4.Bonus!How long will it take for the company to loseall its customers?
 Which demographics will they lose first?
+
+
+# Methodology 
+ For the First part of the project, We will process with descriptive analysis of the variable in the Dataset that was provided using Python 3 for processing and data visualization. 
+
+We use a hypothesis test on difference of proportion to find if there is any difference between two groups of churners.
+
+After a complete analysis by gender, demographic group and Services used. We will provide recommendations and start the discussion for the solutions.
+
+ We Use Python 3.8.5 64-bit('base':conda) in Windows 10 as OS
+
