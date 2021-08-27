@@ -19,12 +19,12 @@ They decide to hire you for two tasks:
 
 To do this, they offer you a file of 7,000 customers.Each row is a customer.  The Churn column will say Yes if the customer churned in the past month.The data also offers demographic dataand data on the services that each customer purchases.
 
-Finally there is information on thepayments those customers make.
+Finally there is information on the payments those customers make.
 Deliverables 
 
 - What is expected ? 
 Week 1 
-A presentation explaining churn for the marketing team - any format. Tell a story to themarketing team to help them understand the customers who churn and what the marketingteam can do to prevent it.  Highlight the informationwith helpful visualizations.
+A presentation explaining churn for the marketing team - any format. Tell a story to themarketing team to help them understand the customers who churn and what the marketing team can do to prevent it.  Highlight the information with helpful visualizations.
 * 1.How much is churn affecting the business? How big is churn compared to the existing customer base?
 * 2.Explain churn by the below categories. Are there anyfactors that combine to beespecially impactful?
 a.Customer demographics like age and gender
